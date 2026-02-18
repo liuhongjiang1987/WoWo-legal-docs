@@ -1,0 +1,7 @@
+# Jekyll config for GitHub Pages
+# 使 .md 生成 /文件名.html 的 URL
+title: WoWo Legal Documents
+description: Terms and Conditions and Privacy Policy for WoWo Chrome extension
+
+# 页面生成规则：terms-and-conditions.md -> terms-and-conditions.html
+permalink: /:title.html
